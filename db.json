@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Juan Perez",
+      "email": "juan.perez@gmail.com",
+      "position": "Desarrollador",
+      "id": "1"
+    },
+    {
+      "name": "Maria Garcia",
+      "email": "maria.garcia@hotmail.com",
+      "position": "Diseñadora",
+      "id": "2"
+    },
+    {
+      "id": 3,
+      "name": "Francisco Franceschina",
+      "email": "fran.franceschina.203@gmail.com",
+      "position": "Desarrollador"
+    }
+  ]
+}
